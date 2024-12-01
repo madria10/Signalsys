@@ -5,7 +5,6 @@ Signals and System - B.Sc. (H) Electronics - Delhi University
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Signals and System Practicals</title>
 </head>
 <body>
     <h1>Signals and System - SEM 3 | 2024 - Delhi University</h1>
